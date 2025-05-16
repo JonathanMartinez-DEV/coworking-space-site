@@ -57,3 +57,18 @@ img {
 .caption {
   margin: 0 25px;
 }
+
+/* Banner */
+
+.item {
+  position: relative;
+}
+
+.img-banner {
+  background-color: #cd6858;
+  color: whitesmoke;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
